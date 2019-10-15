@@ -2,14 +2,14 @@ COMMANDS
 
 
 stage
-    git add .
+    -git add .
     OR
-    git add (filenames)
+    -git add (filenames)
 
 commit
-    git commit -m 'message'
+    -git commit -m 'message'
 
 push
-    git push origin master
+    -git push origin master
     OR
-    git push -u origin master
+    -git push -u origin master
